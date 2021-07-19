@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Reminder</string>
+    <string name="date">Date…</string>
+    <string name="time">00:00</string>
+    <string name="detail">Insert detail…</string>
+    <string name="new_date_time">New Date Time</string>
+    <string name="select_category">Select Category</string>
+    <string name="tt">-</string>
+    <string name="add_list">Add List</string>
+    <string name="edit_reminder">Edit Reminder</string>
+    <string name="category">Category</string>
+    <string name="todo">todo</string>
+    <string name="new_reminder">New Reminder</string>
+    <string name="empty">Empty</string>
+</resources>
